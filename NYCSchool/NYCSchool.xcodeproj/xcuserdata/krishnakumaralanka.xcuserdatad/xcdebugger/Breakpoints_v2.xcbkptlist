@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "314B9A44-B120-4C1F-9576-638466BA2C51"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BCD964A-4F20-4BC9-8989-15BDDC334C19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchool/ViewModels/SchoolsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchSchoolslist()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BCD964A-4F20-4BC9-8989-15BDDC334C19 - 2d0901aed7f7cdfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in NYCSchool.SchoolsListViewModel.fetchSchoolslist() -&gt; ()"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/ViewModels/SchoolsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "2BCD964A-4F20-4BC9-8989-15BDDC334C19 - 2d0901aed7f7cd15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in NYCSchool.SchoolsListViewModel.fetchSchoolslist() -&gt; ()"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/ViewModels/SchoolsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A89C9E7-D513-4F56-9420-2056EC344F86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchool/Network/SchoolAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchSchoolsList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A89C9E7-D513-4F56-9420-2056EC344F86 - 672ee4910d8540d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in NYCSchool.SchoolAPI.fetchSchoolsList() -&gt; Combine.Future&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/Network/SchoolAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "3A89C9E7-D513-4F56-9420-2056EC344F86 - 30e538fc4f076efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;NYCSchool.school&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in NYCSchool.SchoolAPI.fetchSchoolsList() -&gt; Combine.Future&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/Network/SchoolAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "3A89C9E7-D513-4F56-9420-2056EC344F86 - 672ee4910d8540d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in NYCSchool.SchoolAPI.fetchSchoolsList() -&gt; Combine.Future&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/Network/SchoolAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "198">
+               </Location>
+               <Location
+                  uuid = "3A89C9E7-D513-4F56-9420-2056EC344F86 - 672ee4910d854129"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in NYCSchool.SchoolAPI.fetchSchoolsList() -&gt; Combine.Future&lt;Swift.Array&lt;NYCSchool.school&gt;, Swift.Error&gt;"
+                  moduleName = "NYCSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krishnakumaralanka/Downloads/NYCSchool/NYCSchool/Network/SchoolAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
